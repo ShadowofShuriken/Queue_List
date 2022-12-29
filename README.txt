@@ -1,1 +1,1 @@
-152120191076 Hüseyin Topcu => constructor, destructor, AddFront, AddRear, RemoveFront, RemoveRear, Front and Rear functions
+constructor, destructor, AddFront, AddRear, RemoveFront, RemoveRear, Front and Rear functions
